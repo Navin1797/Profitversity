@@ -1,2 +1,1 @@
-# Profitversity
-Analysis &amp; Signals 
+https://github.com/FXStrikersProfitversity/Profitversitybot
